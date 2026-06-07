@@ -1,0 +1,1 @@
+# compress-trie-rs\n\nTrie-based compression (LZ78/LZW) library in Rust.\n\n## Features\n\n- Generic trie data structure\n- LZW code table with dynamic width\n- LZW encode/decode\n- Dictionary management utilities\n- 12-bit packed encoding\n- Pure Rust, no external dependencies\n\n## License\n\nMIT OR Apache-2.0

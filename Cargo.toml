@@ -1,0 +1,12 @@
+[package]
+name = "compress-trie-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Trie-based compression (LZ78/LZW): dictionary building, string table management, and encode/decode in pure Rust."
+documentation = "https://docs.rs/compress-trie-rs"
+repository = "https://github.com/SuperInstance/compress-trie-rs"
+readme = "README.md"
+keywords = ["lzw", "lz78", "trie", "compression", "dictionary"]
+categories = ["algorithms", "compression", "data-structures"]
+license = "MIT OR Apache-2.0"
